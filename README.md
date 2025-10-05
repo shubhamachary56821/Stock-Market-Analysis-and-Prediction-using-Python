@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Got you, bhai 💪🔥
 Here’s the **complete, clean, single-shot README.md** —
 just **copy–paste it directly** into your project’s root folder as `README.md` — no edits needed.
@@ -270,3 +271,13 @@ That helps when you submit to professors or for report-writing.
 ```
 # stock-market-Prediction-Using-Python
 # stock-market-Prediction-Using-Python -->
+=======
+# Stock-Market-Analysis-and-Prediction-using-Python
+Python with machine learning models are going to be used while making this project,  web based
+Project contributors 
+    1: M Shubham Achary (self)
+    2: Gopal Chandra Barik 
+    3: Aditya Singh
+    4: Purna Chandra Nanda
+    5: Ayush Mahapatra
+>>>>>>> e3e265fb0abaf8cc8267074d3b5adf94acd01786
