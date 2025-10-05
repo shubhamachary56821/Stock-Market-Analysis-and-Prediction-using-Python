@@ -268,3 +268,4 @@ Then visit 👉 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 Would you like me to also add a short **"How it works" section** (explaining data flow: user → yfinance → Prophet → chart)?  
 That helps when you submit to professors or for report-writing.
 ```
+# stock-market-Prediction-Using-Python
